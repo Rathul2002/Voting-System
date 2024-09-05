@@ -9,7 +9,5 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class VoterApplication {
     public static void main(String[] args) {
         SpringApplication.run(VoterApplication.class, args);
-
-        System.out.println("Voting System Started");
     }
 }
