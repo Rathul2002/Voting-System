@@ -32,7 +32,7 @@ The Online Voting System is a web-based application designed to facilitate secur
     ```
 
 2. **Setup the Database**:
-    - Create a MySQL database and configure the connection in `application.properties` or `application.yml` file.
+    - Create a MySQL database and configure the connection in `application.properties` file.
 
 3. **Build the Project**:
     ```bash
